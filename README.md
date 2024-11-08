@@ -8,3 +8,23 @@ used two datasets one for training and other for testing the model
 Create an initial machine learning model and estimate accuracy
 Build a backtesting engine to more accurately measure accuracy
 Improve the accuracy of the model
+
+Implementation:
+
+1.Data Preprocessing using dataset
+
+2.Visualization of Dataset
+
+3.Feature Scaling
+
+4.Preparing the Datasets for training
+
+5.Reshaping the datasets
+
+6.Model development
+
+7.Preprocessing the Data
+
+8.Predicting the Output
+
+9.Result visualization
