@@ -4,10 +4,13 @@ Stock (also known as equity) is a security that represents the ownership of a fr
 
 Project Steps:
 
-used two datasets one for training and other for testing the model
-Create an initial machine learning model and estimate accuracy
-Build a backtesting engine to more accurately measure accuracy
-Improve the accuracy of the model
+1.used two datasets one for training and other for testing the model
+
+2.Create an initial machine learning model and estimate accuracy
+
+3.Build a backtesting engine to more accurately measure accuracy
+
+4.Improve the accuracy of the model
 
 Implementation:
 
