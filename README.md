@@ -4,7 +4,7 @@ Stock (also known as equity) is a security that represents the ownership of a fr
 
 Project Steps:
 
-1.used two datasets one for training and other for testing the model
+1.used one datasets training and testing the model
 
 2.Create an initial machine learning model and estimate accuracy
 
